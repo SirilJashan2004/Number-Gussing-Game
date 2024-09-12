@@ -1,0 +1,13 @@
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\bin\Debug\NumberGussingGame.exe.config
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\bin\Debug\NumberGussingGame.exe
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\bin\Debug\NumberGussingGame.pdb
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.csproj.AssemblyReference.cache
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.Login_Form.resources
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.Properties.Resources.resources
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.Sign_Up.resources
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.csproj.GenerateResource.cache
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.csproj.CoreCompileInputs.cache
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.exe
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.pdb
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.Home.resources
+D:\NumberGussingGame\NumberGussingGame\NumberGussingGame\obj\Debug\NumberGussingGame.Game.resources
